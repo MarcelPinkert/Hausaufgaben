@@ -4,8 +4,7 @@ Nottebohmweg 3
 Telefon: 01234 567890
 E-Mail: max.mustermann@example.com
 
-
----
+![Bild](https://posteryard.de/wp-content/uploads/sites/6/2020/02/00339.01.013018.02.jpg)
 
 ## Berufsziel
 Engagierter und motivierter Softwareentwickler mit 5 Jahren Erfahrung in der Webentwicklung. Suche nach einer neuen Herausforderung in einem innovativen Unternehmen, um meine Fähigkeiten in der Softwarearchitektur und Teamarbeit weiterzuentwickeln.
